@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects for school
 - 🌱 I’m currently learning programation
 - 👯 I’m looking to collaborate on programation
-- 🤔 I’m looking for help with programation
-- 📫 How to reach me: +5534991367647
+- 🤔 I’m looking for help with programation 
 - ⚡ Fun fact: i like to play 🎮
 
